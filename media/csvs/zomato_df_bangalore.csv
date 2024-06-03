@@ -1,0 +1,51 @@
+,Restaurant ID,Restaurant Name,Number of Orders,Price,City,Rating,Food Name
+0,1,Spicy Delight,450,150.5,Koramangala,4.5,Masala Dosa
+1,2,Urban Diner,320,200.0,Indiranagar,4.0,Butter Chicken
+2,3,Green Garden,280,250.75,Whitefield,3.8,Paneer Butter Masala
+3,4,Taste of Italy,500,300.2,MG Road,4.7,Chicken Biryani
+4,5,Sushi World,350,350.0,Brigade Road,4.2,Vegetable Pulao
+5,6,Burger Haven,410,400.25,Jayanagar,3.9,Mutton Rogan Josh
+6,7,Curry Palace,290,450.1,JP Nagar,4.3,Chole Bhature
+7,8,Taco Fiesta,470,500.75,Banashankari,4.6,Pav Bhaji
+8,9,Bistro Bliss,340,550.2,HSR Layout,4.1,Fish Curry
+9,10,Pasta Paradise,330,600.4,BTM Layout,4.4,Chicken Tikka
+10,11,Steakhouse Supreme,480,650.6,Marathahalli,4.8,Palak Paneer
+11,12,Vegan Valley,260,700.8,Malleshwaram,3.7,Paneer Tikka
+12,13,Dim Sum Delights,390,750.9,Rajajinagar,4.0,Aloo Paratha
+13,14,Pizza Perfection,410,800.5,Frazer Town,4.5,Dal Makhani
+14,15,Sandwich Central,320,850.75,Basavanagudi,3.9,Gobi Manchurian
+15,16,Seafood Sensation,460,900.0,Electronic City,4.3,Egg Curry
+16,17,BBQ Barn,300,950.25,Yeshwanthpur,4.0,Mysore Pak
+17,18,Noodle Nirvana,350,1000.5,Hebbal,4.6,Hyderabadi Biryani
+18,19,Kebab Kingdom,400,1050.75,Ulsoor,4.2,Chicken 65
+19,20,Salad Station,370,1100.0,Shivajinagar,3.8,Masala Chai
+20,21,Bakery Boutique,420,1150.25,Domlur,4.7,Gulab Jamun
+21,22,Waffle Wonders,380,1200.5,Bellandur,4.1,Idli
+22,23,Pancake Plaza,310,1300.0,Sarjapur Road,4.4,Vada
+23,24,Soup Stop,360,1350.25,Kalyan Nagar,3.9,Medu Vada
+24,25,Ice Cream Island,490,1400.5,KR Puram,4.5,Sambar
+25,26,Smoothie Spot,300,1450.75,Kammanahalli,3.8,Rasam
+26,27,Juice Junction,410,1500.0,Hennur,4.0,Pongal
+27,28,Gourmet Galore,290,1550.25,Nagawara,4.6,Upma
+28,29,Brunch Bites,460,1600.5,RT Nagar,4.2,Rava Idli
+29,30,Supper Spot,370,1650.75,Richmond Town,3.7,Bisi Bele Bath
+30,31,Midnight Munchies,430,1700.0,Sadashivanagar,4.8,Curd Rice
+31,32,Healthy Habits,380,1750.25,Seshadripuram,4.1,Mysore Masala Dosa
+32,33,Savory Snacks,340,1800.5,Vijayanagar,4.4,Set Dosa
+33,34,Dessert Den,320,1850.75,Chandra Layout,4.0,Appam
+34,35,Coffee Corner,400,1900.0,Varthur,3.9,Neer Dosa
+35,36,Tea Time,350,1950.25,Brookefield,4.3,Chicken Curry
+36,37,Café Cosmo,370,2000.5,Hulimavu,4.6,Mutton Biryani
+37,38,Fast Food Frenzy,360,2050.75,Banerghatta Road,4.2,Fish Fry
+38,39,Mediterranean Magic,440,2100.0,Kumaraswamy Layout,3.8,Prawn Curry
+39,40,Mexican Marvels,350,2150.25,Lalbagh,4.7,Crab Masala
+40,41,Indian Indulgence,410,2200.5,MG Road,4.1,Vegetable Biryani
+41,42,Chinese Corner,390,2250.75,Vasanth Nagar,4.4,Paneer Biryani
+42,43,Thai Treats,310,2300.0,Peenya,3.9,Mushroom Masala
+43,44,Japanese Joy,400,2350.25,Hoskote,4.5,Paneer Kathi Roll
+44,45,French Fancies,420,2400.5,Kengeri,3.8,Veg Kathi Roll
+45,46,Greek Gourmet,360,2450.75,Yelahanka,4.0,Chicken Kathi Roll
+46,47,Spanish Sizzle,340,2500.0,Banaswadi,4.6,Mutton Kathi Roll
+47,48,Turkish Temptations,410,2550.25,Majestic,4.2,Paneer Frankie
+48,49,German Grub,380,2600.5,Old Madras Road,3.7,Chicken Frankie
+49,50,Fusion Feast,390,2650.75,Thanisandra,4.8,Mutton Frankie

@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block title %}Uploaded Files{% endblock %}
+
+{% block content %}
+    <h2>Uploaded Files</h2>
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">File Name</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for file in files %}
+                <tr>
+                    <th scope="row">{{ forloop.counter }}</th>
+                    <td>{{ file.file.name }}</td>
+                    <td>
+                        <a class="btn btn-info" href="{% url 'file_detail' pk=file.pk %}">View Details</a>
+                        <form method="post" action="{% url 'delete_file' pk=file.pk %}" style="display:inline;">
+                            {% csrf_token %}
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

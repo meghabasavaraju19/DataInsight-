@@ -1,0 +1,81 @@
+,Product Name,Brand,Rating,Number of Reviews,Price
+0,Vacuum Cleaner,Dyson,4.6,1200,499.99
+1,Vacuum Cleaner,Shark,4.5,850,299.99
+2,Vacuum Cleaner,Bissell,4.4,620,199.99
+3,Vacuum Cleaner,Eufy,4.6,1350,149.99
+4,Vacuum Cleaner,iRobot,4.7,980,599.99
+5,Robot Vacuum,iRobot,4.5,500,399.99
+6,Robot Vacuum,Eufy,4.4,680,299.99
+7,Robot Vacuum,iLife,4.6,870,249.99
+8,Robot Vacuum,Roomba,4.5,910,499.99
+9,Robot Vacuum,Shark,4.4,450,349.99
+10,Air Fryer,Ninja,4.7,1050,129.99
+11,Air Fryer,Philips,4.6,780,199.99
+12,Air Fryer,Instant Pot,4.5,890,149.99
+13,Air Fryer,Breville,4.7,1200,229.99
+14,Air Fryer,Cuisinart,4.6,640,189.99
+15,Lightstrip,Philips,4.5,580,89.99
+16,Lightstrip,GE,4.6,860,79.99
+17,Lightstrip,Sylvania,4.4,930,59.99
+18,Lightstrip,Govee,4.5,740,99.99
+19,Lightstrip,LIFX,4.7,810,119.99
+20,Stand Mixer,KitchenAid,4.8,950,399.99
+21,Stand Mixer,Cuisinart,4.7,1100,299.99
+22,Stand Mixer,Hamilton Beach,4.5,450,199.99
+23,Stand Mixer,Breville,4.6,690,349.99
+24,Stand Mixer,Oster,4.4,890,249.99
+25,Coffee Maker,Keurig,4.7,1300,129.99
+26,Coffee Maker,Nespresso,4.6,800,199.99
+27,Coffee Maker,Mr. Coffee,4.5,770,79.99
+28,Coffee Maker,Cuisinart,4.4,940,149.99
+29,Coffee Maker,Black+Decker,4.3,650,99.99
+30,Smart Thermostat,Nest,4.5,780,199.99
+31,Smart Thermostat,Honeywell,4.6,890,299.99
+32,Smart Thermostat,Ecobee,4.4,960,149.99
+33,Smart Thermostat,Emerson,4.3,530,99.99
+34,Smart Thermostat,Lux,4.5,880,129.99
+35,Electric Toothbrush,Philips,4.7,1200,49.99
+36,Electric Toothbrush,Oral-B,4.5,910,39.99
+37,Electric Toothbrush,Fairywill,4.4,800,59.99
+38,Electric Toothbrush,Waterpik,4.6,730,79.99
+39,Electric Toothbrush,Sonicare,4.3,670,99.99
+40,Water Filter,Brita,4.3,830,29.99
+41,Water Filter,Pur,4.5,770,19.99
+42,Water Filter,ZeroWater,4.6,600,24.99
+43,Water Filter,AquaBliss,4.4,550,34.99
+44,Water Filter,LifeStraw,4.7,690,44.99
+45,Smart TV,Samsung,4.6,1400,599.99
+46,Smart TV,Sony,4.4,890,499.99
+47,Smart TV,LG,4.3,780,699.99
+48,Smart TV,TCL,4.5,870,799.99
+49,Smart TV,Vizio,4.7,810,899.99
+50,Laptop,Dell,4.5,960,999.99
+51,Laptop,HP,4.6,690,799.99
+52,Laptop,Lenovo,4.4,940,699.99
+53,Laptop,Acer,4.7,590,599.99
+54,Laptop,Asus,4.5,780,499.99
+55,Desktop,HP,4.7,1200,899.99
+56,Desktop,Dell,4.5,820,799.99
+57,Desktop,Acer,4.4,910,699.99
+58,Desktop,Asus,4.6,670,599.99
+59,Desktop,Lenovo,4.3,810,499.99
+60,Portable AC,Midea,4.4,1350,899.99
+61,Portable AC,Whynter,4.7,580,799.99
+62,Portable AC,Black+Decker,4.5,960,699.99
+63,Portable AC,GE,4.6,890,599.99
+64,Portable AC,NewAir,4.3,920,499.99
+65,Ice Maker,Frigidaire,4.7,680,499.99
+66,Ice Maker,NewAir,4.4,870,399.99
+67,Ice Maker,GE,4.3,780,299.99
+68,Ice Maker,Whynter,4.5,810,199.99
+69,Ice Maker,Cuisinart,4.6,900,149.99
+70,Sous Vide Cooker,Black+Decker,4.6,710,199.99
+71,Sous Vide Cooker,GE,4.5,930,299.99
+72,Sous Vide Cooker,NewAir,4.4,860,399.99
+73,Sous Vide Cooker,Frigidaire,4.3,670,499.99
+74,Sous Vide Cooker,NewAir,4.5,790,599.99
+75,Food Scale,GE,4.7,1100,99.99
+76,Food Scale,Whynter,4.5,940,149.99
+77,Food Scale,Cuisinart,4.6,740,199.99
+78,Food Scale,Asus,4.4,810,249.99
+79,Food Scale,Lenovo,4.3,820,299.99
